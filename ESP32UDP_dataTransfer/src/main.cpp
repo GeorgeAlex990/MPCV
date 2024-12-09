@@ -4,8 +4,8 @@
 #include <Wire.h>
 
 // Network credentials
-const char* ssid = "agr1";
-const char* password = "as1ui0p25";
+const char* ssid = "";
+const char* password = "";
 
 int MQ = 33;
 
